@@ -101,6 +101,8 @@
 
 ## JavaScript Books
 
+- [Eloquent JavaScript](https://github.com/divertimentos/book-eloquent-javascript)
+
 # Other Notes
 
 - [Learning Object-Oriented Programming](https://github.com/divertimentos/Learning-OOP)
