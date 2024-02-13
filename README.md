@@ -59,12 +59,9 @@
 
 # Tutorials (text/documentation)
 
+## Front-End Tutorials
+
 - [Official NextJS + Tailwind Documentation](https://github.com/divertimentos/learning-next-tailwind)
-- [Django Tutorial (Django Girls)](https://github.com/divertimentos/Tutorial-DjangoGirls)
-- [Django Course by Mozilla](https://github.com/divertimentos/Django-Mozilla)
-- [Flask Mega Tutorial by Miguel Grinberg](https://github.com/divertimentos/Flask-Mega-Tutorial)
-- [Welcome to the Django Course by Henrique Bastos](https://github.com/divertimentos/Welcome-To-The-Django)
-- [Selenium Tutorial (Real Python)](https://github.com/divertimentos/Tutorial-Selenium-Real-Python)
 - [Pare de Chutar CSS](https://github.com/divertimentos/Pare-de-Chutar-CSS)
 - [JavaScript Orientado a Objetos](https://github.com/divertimentos/JavaScript-Orientado-A-Objetos)
 - [Tutorial da Documentação Oficial do React](https://github.com/divertimentos/Tutorial-Documentacao-Oficial-React)
@@ -73,18 +70,36 @@
 - [Web Development Tutorial (Learn Code Academy)](https://github.com/divertimentos/Tutorial-Web-Development-LearnCodeAcademy)
 - [Tutorial Flexbox TechSith](https://github.com/divertimentos/Tutorial-Flexbox-TechSith)
 - [Grid Layout Course (Traversy)](https://github.com/divertimentos/Tutorial-Grid-Layout-Traversy)
-- [Developer Android Traning](https://github.com/divertimentos/Developer-Android-Training)
+
+## Python Tutorials
+
+- [Django Tutorial (Django Girls)](https://github.com/divertimentos/Tutorial-DjangoGirls)
+- [Django Course by Mozilla](https://github.com/divertimentos/Django-Mozilla)
+- [Flask Mega Tutorial by Miguel Grinberg](https://github.com/divertimentos/Flask-Mega-Tutorial)
+- [Welcome to the Django Course by Henrique Bastos](https://github.com/divertimentos/Welcome-To-The-Django)
+- [Selenium Tutorial (Real Python)](https://github.com/divertimentos/Tutorial-Selenium-Real-Python)
 - [Tutorial Django (Simple is Better Than Complex)](https://github.com/divertimentos/Tutorial-Django-Simple-Is-Better)
 - [Django Tutorial (official docs)](https://github.com/divertimentos/Django-Tutorial)
 
+## Other Tutorials
+
+- [Developer Android Traning](https://github.com/divertimentos/Developer-Android-Training)
+
 # Notes from Books
 
+## Ruby Books
+
 - [Why's Poignant Guide do Ruby](https://github.com/divertimentos/Livro-Poignant-Ruby)
+
+## Python Books
+
 - [Natural Language Processing with Python](https://github.com/divertimentos/Livro-NLP-Python)
 - [Orientação a Objetos em Python](https://github.com/divertimentos/Livro-Python-Orientacao-Objetos)
 - [Livro de introdução ao Python (IFSP)](https://github.com/divertimentos/Livro-Python-IFSP)
 - [Livro NLTK with Python](https://github.com/divertimentos/Livro-NLTK-With-Python)
 - [Livro Aprenda Python](https://github.com/divertimentos/Livro-Aprenda-Python)
+
+## JavaScript Books
 
 # Other Notes
 
