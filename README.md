@@ -11,6 +11,8 @@
 - [HackerRank](https://github.com/divertimentos/HackerRank-Exercises)
 - [Python Exercises (Pratusevich)](https://github.com/divertimentos/Exercicios-Python-Pratusevich)
 - [CodeWars](https://github.com/divertimentos/CodeWars)
+- [Exercícios Wiki Python](https://github.com/divertimentos/Exercicios-Wiki-Python)
+- [URI Exercises](https://github.com/divertimentos/Exercicios-URI)
 
 # POCs
 
@@ -45,6 +47,7 @@
 - [Vue Course](https://github.com/divertimentos/Curso-Vue-Maximilian)
 - [Curso de Django (Impacta)](https://github.com/divertimentos/Django-Impacta)
 - [Curso de Java do Guanabara](https://github.com/divertimentos/Java-Guanabara)
+- [30 days of Python Course](https://github.com/divertimentos/Curso-Python-30-Days)
 
 # Tutorials (text/documentation)
 
@@ -63,6 +66,8 @@
 - [Tutorial Flexbox TechSith](https://github.com/divertimentos/Tutorial-Flexbox-TechSith)
 - [Grid Layout Course (Traversy)](https://github.com/divertimentos/Tutorial-Grid-Layout-Traversy)
 - [Developer Android Traning](https://github.com/divertimentos/Developer-Android-Training)
+- [Tutorial Django (Simple is Better Than Complex)](https://github.com/divertimentos/Tutorial-Django-Simple-Is-Better)
+- [Django Tutorial (official docs)](https://github.com/divertimentos/Django-Tutorial)
 
 # Notes from Books
 
@@ -70,6 +75,8 @@
 - [Natural Language Processing with Python](https://github.com/divertimentos/Livro-NLP-Python)
 - [Orientação a Objetos em Python](https://github.com/divertimentos/Livro-Python-Orientacao-Objetos)
 - [Livro de introdução ao Python (IFSP)](https://github.com/divertimentos/Livro-Python-IFSP)
+- [Livro NLTK with Python](https://github.com/divertimentos/Livro-NLTK-With-Python)
+- [Livro Aprenda Python](https://github.com/divertimentos/Livro-Aprenda-Python)
 
 # Other Notes
 
@@ -87,3 +94,4 @@
 - [NLP Ariani](https://github.com/divertimentos/NLP-Ariani)
 - [Redux Shopping](https://github.com/divertimentos/redux-shopping)
 - [Dojos de Python (Grupy Sanca)](https://github.com/divertimentos/Dojos)
+- [Disciplina Python para Linguistas (profa. Helena Caseli (DC-UFSCar))](https://github.com/divertimentos/Disciplina-Programacao-Para-Linguistas)
