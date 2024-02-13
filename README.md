@@ -26,28 +26,36 @@
 
 # Courses
 
+## JS + Front-End Courses
+
 - [Jest Course (Freecodecamp)](https://github.com/divertimentos/course-jest-freecodecamp)
 - [React - The Complete Guide by Max Schwarzmüller](https://github.com/divertimentos/curso-udemy-react-the-complete-guide)
 - [DOM Course by Clyde Matthew (Udemy)](https://github.com/divertimentos/course-dom)
 - [Imersão Alura (Languageflix)](https://github.com/divertimentos/curso-alura-imersao-languageflix)
-- [React Crash Course](https://github.com/divertimentos/React-Crash-Course-Quentin)
-- [Tutorial Django (Pretty Printed)](https://github.com/divertimentos/Tutorial-Django-Todolist-Pretty-Printed)
-- [Tutorial Django 2.0 (Pretty Printed)](https://github.com/divertimentos/Tutorial-Django-Introduction-For-Beginners)
-- [Tutorial Django REST Frameworkd](https://github.com/divertimentos/Tutorial-Django-Rest-Framework)
-- [Django Course by José Portilla (Udemy)](https://github.com/divertimentos/Django-Portilla)
 - [Just JavaScript by Dan Abramov](https://github.com/divertimentos/just-javascript)
-- [Curso de Python do Gustavo Guanabara](https://github.com/divertimentos/Curso-Python-Gustavo-Guanabara)
 - [Curso Alura HTML + CSS](https://github.com/divertimentos/curso-alura-html-css)
 - [Curso Alura Flexbox](https://github.com/divertimentos/curso-alura-flexbox)
 - [Curso Alura Hooks + Context](https://github.com/divertimentos/curso-alura-react-hooks-contexts)
 - [Curso Alura Functional Components](https://github.com/divertimentos/curso-alura-react-functional-components)
 - [Curso Alura Class-based Components](https://github.com/divertimentos/curso-alura-react-class-components)
-- [Curso de Git (Alura)](https://github.com/divertimentos/curso-alura-git)
 - [Curso de JavaScript do Guanabara](https://github.com/divertimentos/Curso-JavaScript-Guanabara)
 - [Vue Course](https://github.com/divertimentos/Curso-Vue-Maximilian)
-- [Curso de Django (Impacta)](https://github.com/divertimentos/Django-Impacta)
-- [Curso de Java do Guanabara](https://github.com/divertimentos/Java-Guanabara)
+
+## Python + Django Courses
+
+- [React Crash Course](https://github.com/divertimentos/React-Crash-Course-Quentin)
+- [Tutorial Django (Pretty Printed)](https://github.com/divertimentos/Tutorial-Django-Todolist-Pretty-Printed)
+- [Tutorial Django 2.0 (Pretty Printed)](https://github.com/divertimentos/Tutorial-Django-Introduction-For-Beginners)
+- [Tutorial Django REST Frameworkd](https://github.com/divertimentos/Tutorial-Django-Rest-Framework)
+- [Django Course by José Portilla (Udemy)](https://github.com/divertimentos/Django-Portilla)
 - [30 days of Python Course](https://github.com/divertimentos/Curso-Python-30-Days)
+- [Curso de Python do Gustavo Guanabara](https://github.com/divertimentos/Curso-Python-Gustavo-Guanabara)
+- [Curso de Django (Impacta)](https://github.com/divertimentos/Django-Impacta)
+
+## Other Courses
+
+- [Curso de Git (Alura)](https://github.com/divertimentos/curso-alura-git)
+- [Curso de Java do Guanabara](https://github.com/divertimentos/Java-Guanabara)
 
 # Tutorials (text/documentation)
 
